@@ -11,6 +11,6 @@
 <h3 align="left">Top projects 🔥🔥🔥</h3>
 
 <a href="https://delkshk.github.io/TabelaBrasileirao/"> Table of the Brazilian football championship in react </a> <br>
-<a href="https://delkshk.github.io/WeatherApp/"> Weather App in VUE.JS </a>
+<a href="https://delkshk.github.io/WeatherApp/"> Weather App in VUE.JS </a><br>
 <a href="https://delkshk.github.io/CalculadoraDeAprovado/"> Approved student calculator </a>
 
